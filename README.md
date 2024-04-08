@@ -12,8 +12,13 @@ Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quisere
 
 Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
+## Status de Acessibilidade do Projeto
+
+![Wave Acessibilidade do Site](./assets/images/acessibility-statuspng.png)
+
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
+
 
 
